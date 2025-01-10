@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I´m  yisus!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+ ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=yisusMurcia&show_icons=true&hide=[%22issues%22])
+ 
 
 <!--
 **yisusMurcia/yisusMurcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
