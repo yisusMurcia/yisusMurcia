@@ -2,10 +2,20 @@
 
 This profile README still in development
 
- <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-[![](https://github-readme-stats.vercel.app/api?username=yisusMurcia&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/yisusMurcia)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yisusmurcia&theme=material-palenight)](https://github.com/yisusMurcia)
+ <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=yisusMurcia&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/yisusMurcia)]<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yisusMurcia&theme=tokyonight&hide_border=false)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yisusMurcia&layout=compact&langs_count=8&theme=tokyonight" style="border: none;"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yisusMurcia&theme=tokyonight&hide_border=false"/>
+
 </div>
  
 
