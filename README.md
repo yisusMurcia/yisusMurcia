@@ -2,11 +2,15 @@
 
 I´m a system engineering student
 
-Currently I´m interested in make code, see more of me in [my portfolio](https://yisusmurcia.github.io/miPortafolio/)
+Currently I´m interested in make code, and this are some stats on my profile
 
-⚠️⚠️
-This profile README still in development
-⚠️⚠️
+ <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+
+[![](https://github-readme-stats.vercel.app/api?username=yisusMurcia&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/yisusMurcia)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=yisusMurcia&theme=tokyonight&hide_border=false)](https://github.com/yisusMurcia)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yisusMurcia&layout=compact&langs_count=8&theme=tokyonight" style="border: none;"/>
+
+</div>
 
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
@@ -17,15 +21,9 @@ This profile README still in development
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 
- <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+See more of me in [my portfolio](https://yisusmurcia.github.io/miPortafolio/)
 
- Take a look here and some of my repos too
-
-[![](https://github-readme-stats.vercel.app/api?username=yisusMurcia&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/yisusMurcia)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yisusMurcia&theme=tokyonight&hide_border=false)](https://github.com/yisusMurcia)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yisusMurcia&layout=compact&langs_count=8&theme=tokyonight" style="border: none;"/>
-
-</div>
+Wanna see more of me: [check my bento](https://bento.me/yisusm)
  
 
 <!--
