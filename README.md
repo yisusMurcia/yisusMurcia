@@ -2,7 +2,7 @@
 
 I´m a system engineering student
 
-Currently I´m interested in make code, see more of me in [my portfolio](https://yisusmurcia.github.io/portafolio/)
+Currently I´m interested in make code, see more of me in [my portfolio](https://yisusmurcia.github.io/miPortafolio/)
 
 ⚠️⚠️
 This profile README still in development
